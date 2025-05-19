@@ -50,7 +50,7 @@ The system is built on these key components:
 
 ```bash
 # Clone repository
-git clone https://github.com/username/rag-social-media-generator.git
+git clone https://github.com/JVS1328/rag-social-media-feed.git
 cd rag-social-media-generator
 
 # Install dependencies
