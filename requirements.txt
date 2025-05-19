@@ -1,0 +1,33 @@
+# Core dependencies
+numpy>=1.24.0
+torch>=2.0.0
+pydantic>=2.0.0
+tqdm>=4.65.0
+
+# LangChain components
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.0.1
+
+# Vector stores and embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# LLM and transformers
+transformers>=4.30.0
+accelerate>=0.20.0
+llama-cpp-python>=0.1.77
+
+# Graph visualization and manipulation
+networkx>=3.1
+pyvis>=0.3.2
+neo4j>=5.8.0
+
+# Jupyter components
+ipywidgets>=8.0.0
+jupyter_client>=8.0.0
+notebook>=6.5.0
+
+# Utility libraries
+python-dotenv>=1.0.0
+requests>=2.31.0
